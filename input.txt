@@ -1,0 +1,10 @@
+Hello,
+
+Please contact us at support@example.com for assistance.
+
+You can also reach:
+john123@gmail.com
+admin@yahoo.in
+sales.office@company.org
+
+Thank you.
